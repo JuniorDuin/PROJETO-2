@@ -33,7 +33,15 @@ ul {
 ul il {
     font-weight: bold;
     opacity: 0.5;
+
 }
+
+.navbar-nav {
+    display: flex;
+    flex-direction: row;
+    margin-left: 500px;
+}
+
 
 /*pseudo class*/
 ul li a:hover{
